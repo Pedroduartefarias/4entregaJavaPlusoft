@@ -128,6 +128,11 @@ POST /produtos
     <li><strong>Novo sistema de Chat</strong> com RabbitMQ para troca de mensagens entre clientes e funcionários</li>
     <li><strong>IA com Groq</strong> para prever a conversão de novos clientes</li>
   </ul>
+
+<h2>🗨 Diagrama final da solução</h2>
+
+![image](https://github.com/user-attachments/assets/53e91924-3f84-4aee-8ef5-7dc40e5432d2)
+
   
   <p><em>Nota</em>: O código está na branch <code>master</code>.</p>
 
