@@ -172,7 +172,7 @@ management.endpoints.web.exposure.include=*
   <p><img src="https://github.com/user-attachments/assets/53e91924-3f84-4aee-8ef5-7dc40e5432d2" alt="Diagrama do projeto"></p>
 
   <h2>🎥 Link para o Vídeo</h2>
-  <p><a href="https://youtu.be/2KBVmzaax78">Veja a demonstração no YouTube</a></p>
+  <p><a href="https://youtu.be/MNyFiKdOAVg">Veja a demonstração no YouTube</a></p>
 
   <p><em>Nota</em>: O código está na branch <code>master</code>.</p>
 
