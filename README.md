@@ -6,7 +6,7 @@
   <li><strong>Henrique Baptista</strong>: Responsável pela criação do projeto IoT e DevOps</li>
   <li><strong>Leonardo Dourado</strong>: Responsável pelo projeto de QA</li>
   <li><strong>Gabriel Caverzan</strong>: Responsável pelo projeto de Mobile e Banco de Dados</li>
-  <li><strong>Matheus</strong>: Responsável pelo projeto de C#</li>
+  <li><strong>Matheus De Castro</strong>: Responsável pelo projeto de C#</li>
 </ul>
 
 <h1>Projeto de Gestão de Clientes</h1>
